@@ -1,0 +1,10 @@
+name: NetherHub
+main: me.zoxu.netherhub.Main
+version: 1.0
+api-version: 1.15
+author: Zoxu
+commands:
+   NetherHub:
+      description: NetherHub main command
+      usage: /<command> [loc]
+      aliases: [nh]
